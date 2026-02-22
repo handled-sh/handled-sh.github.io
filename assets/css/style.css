@@ -544,18 +544,20 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   border-radius: var(--radius-lg);
   overflow: hidden;
-  max-height: 480px;
+  max-height: 320px;
   transition: var(--transition);
+  border: 1px solid var(--border);
 }
 
 .featured-post:hover {
   transform: translateY(-3px);
   box-shadow: 0 0 40px var(--purple-glow);
+  border-color: var(--border-hover);
 }
 
 .featured-image {
   width: 100%;
-  height: 480px;
+  height: 320px;
   object-fit: cover;
   display: block;
 }
@@ -565,27 +567,34 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 40px 32px 32px;
+  padding: 28px 28px 24px;
   background: linear-gradient(transparent, rgba(10, 10, 10, 0.95));
 }
 
 .featured-overlay h2 {
   font-family: 'Exo', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   color: #fff;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .featured-overlay p {
   color: var(--text-muted);
-  font-size: 1rem;
+  font-size: 0.9rem;
+  margin: 0;
 }
 
 @media (max-width: 768px) {
+  .featured-post {
+    max-height: 240px;
+  }
   .featured-image {
-    height: 300px;
+    height: 240px;
   }
   .featured-overlay h2 {
-    font-size: 1.3rem;
+    font-size: 1.15rem;
+  }
+  .featured-overlay p {
+    font-size: 0.85rem;
   }
 }
