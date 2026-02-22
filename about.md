@@ -1,54 +1,68 @@
 ---
 layout: page
-title: About
+title: About Handled
+subtitle: One conversation to manage your entire life.
 permalink: /about/
 ---
 
-# About Handled
+Handled is an AI personal assistant that lives inside WhatsApp and Telegram. No app to download. No dashboard to learn. Just message it like you'd message a friend — and it takes care of the rest.
 
-Handled is your AI-powered personal assistant, available right inside WhatsApp and Telegram. No app to install. No account to create. Just a conversation that keeps your entire life on track.
+---
 
-## The Problem We Solve
+## The Problem
 
-The average person uses nearly ten different apps to manage their daily life — calendar, email, tasks, notes, reminders, banking, travel, and more. Each one is a separate silo with its own interface, its own notifications, and its own way of doing things.
+The average professional uses *nine different apps* to get through their day. Calendar here, email there, tasks somewhere else, notes in another corner. Every app has its own interface, its own notifications, its own way of demanding attention.
 
-The result is fragmentation. Important tasks fall between the cracks. Follow-ups get forgotten. Mental energy is wasted on managing tools instead of using them.
+The result? Things slip through the cracks. Follow-ups get forgotten. You spend more time *managing tools* than actually getting things done.
 
-Handled eliminates this fragmentation by giving you a single, intelligent interface — your messaging app — that handles everything for you.
+We built Handled to fix that.
 
-## What Handled Does
+---
 
-- **Daily briefings** — Wake up to a clear summary of your day: meetings, deadlines, tasks, and reminders.
-- **Task management** — Capture tasks instantly by sending a message. Handled organizes, prioritizes, and reminds you automatically.
-- **Calendar intelligence** — Schedule meetings, avoid conflicts, and manage your time without opening a calendar app.
-- **Smart reminders** — Set one-time or recurring reminders in natural language. Never forget a bill, a birthday, or an appointment again.
-- **Email and message triage** — Forward messages and emails to Handled. It extracts the important details and turns them into actions.
-- **Proactive assistance** — Handled doesn't just respond to requests. It anticipates your needs and surfaces relevant information before you ask.
+## How It Works
 
-## Built for Real People
+You send a message. Handled does the rest.
 
-Handled is designed for people who are busy, not people who love productivity tools. You don't need to learn a new system, master prompt engineering, or change your habits. You just send a message — the way you already communicate with everyone else in your life.
+- **"What's on my calendar today?"** — Get a clear summary of your day
+- **"Remind me to call the bank at 3 PM"** — Done, you'll get a nudge right on time
+- **"Send an email to Sarah with the meeting notes"** — Sent from your account
+- **"Check traffic to the airport"** — Live route with ETA and a map
+- **"Find me a good Italian restaurant nearby"** — Curated results, not a list of links
 
-Our users include freelancers, sales professionals, software engineers, small business owners, parents, students, and anyone who wants to spend less time managing their life and more time living it.
+Handled connects to your calendar, email, and contacts. It remembers your preferences, your routines, and the people in your life. The more you use it, the smarter it gets.
 
-## The Team
+---
 
-Handled was founded by **Peter Larnholt**, an entrepreneur and technologist based in Copenhagen. Peter built Handled out of his own frustration with the fragmented tool landscape and a conviction that AI assistants should meet people where they already are — in their messaging apps.
+## Who It's For
 
-The Handled team combines expertise in artificial intelligence, natural language processing, product design, and user experience. We are a small, focused team that moves fast and cares deeply about building something that genuinely helps people every single day.
+Handled is built for busy people — not productivity nerds.
 
-## Our Values
+**Freelancers** who juggle clients, deadlines, and invoices across ten different threads. **Sales professionals** managing hundreds of contacts and follow-ups. **Engineers** who want to automate their personal life the way they automate their code. **Parents** keeping track of school events, appointments, and family schedules. **Anyone** who's tired of app-hopping and just wants things *handled*.
 
-**Simplicity over features.** We'd rather do fewer things exceptionally well than many things poorly. Every feature we add must make your life simpler, not more complex.
+---
 
-**Privacy by design.** Your personal assistant knows the intimate details of your life. We treat that responsibility with the seriousness it deserves. Data minimization, encryption, and user control are foundational to how we build.
+## The Founder
 
-**Meet people where they are.** We don't ask you to download a new app, learn a new interface, or change your behavior. Handled works inside the apps you already use, in the language you already speak.
+**Peter Larnholt** is an entrepreneur and technologist splitting his time between Copenhagen and Dubai. He built Handled out of personal frustration — too many apps, too many open tabs, too many things falling through the cracks.
 
-## Get in Touch
+His conviction: AI assistants should meet people where they already are. Not in another app. Not behind another login. Right there in the messaging apps you use every single day.
 
-Have questions, feedback, or ideas? We'd love to hear from you.
+---
 
-- **Website:** [handled.sh](https://handled.sh)
-- **Email:** hello@handled.sh
-- **WhatsApp & Telegram:** Just message Handled directly to get started.
+## Our Principles
+
+**Simplicity over features.** We'd rather do three things perfectly than thirty things poorly. Every feature must make your life simpler.
+
+**Privacy by design.** Your assistant knows the details of your life. We treat that responsibility seriously — data minimization, encryption, and user control are non-negotiable.
+
+**Meet people where they are.** No downloads. No onboarding flows. No behavior change required. Handled works inside the apps you already use.
+
+---
+
+## Get Started
+
+Try Handled free for 90 days. No credit card. No commitment.
+
+Just message us on [WhatsApp](https://handled.sh) or [Telegram](https://handled.sh) to begin — or visit [handled.sh](https://handled.sh) to learn more.
+
+Questions? Reach us at hello@handled.sh
