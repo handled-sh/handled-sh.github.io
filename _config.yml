@@ -1,9 +1,13 @@
-title: Peter Larnholt
-description: Personal thoughts on technology, leadership, and life.
-theme: minima
+title: Handled Blog
+description: Stories, insights, and the journey of building an AI assistant that actually gets things done.
+url: "https://handled-sh.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: /:title/
+
 author:
-  name: Peter Larnholt
-header_pages:
-  - about.md
+  name: Handled Team
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
