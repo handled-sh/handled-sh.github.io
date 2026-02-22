@@ -508,29 +508,58 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+/* ─── Page Hero ─── */
+.page-hero {
+  text-align: center;
+  padding: 100px 0 40px;
+  position: relative;
+}
+
+.page-hero::before {
+  content: '';
+  position: absolute;
+  top: -30%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, var(--purple-glow) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.page-hero h1 {
+  font-size: 2.8rem;
+  letter-spacing: -0.02em;
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.page-subtitle {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  position: relative;
+  max-width: 540px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
 /* ─── Page Content ─── */
 .page-content {
   max-width: 680px;
   margin: 0 auto;
-  padding: 100px 24px 80px;
+  padding: 48px 24px 80px;
 }
 
-.page-content h1 {
-  font-size: 2.4rem;
-  margin-bottom: 12px;
-  letter-spacing: -0.02em;
-}
-
-.page-content h1 + p {
+.page-content > p:first-child {
   font-size: 1.15rem;
   color: var(--text-muted);
-  line-height: 1.7;
-  margin-bottom: 40px;
+  line-height: 1.8;
+  margin-bottom: 32px;
 }
 
 .page-content h2 {
   font-size: 1.5rem;
-  margin: 48px 0 16px;
+  margin: 20px 0 18px;
   letter-spacing: -0.01em;
 }
 
@@ -550,7 +579,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page-content li {
-  margin-bottom: 12px;
+  margin-bottom: 14px;
   line-height: 1.7;
   font-size: 1.05rem;
   padding-left: 4px;
@@ -587,6 +616,21 @@ h1, h2, h3, h4, h5, h6 {
 .page-content a:hover {
   color: var(--purple);
   text-decoration-color: var(--purple);
+}
+
+.page-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 48px 0;
+}
+
+@media (max-width: 768px) {
+  .page-hero h1 {
+    font-size: 2rem;
+  }
+  .page-subtitle {
+    font-size: 1.05rem;
+  }
 }
 
 /* ─── Footer ─── */
