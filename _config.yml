@@ -1,0 +1,20 @@
+title: Peter Larnholt
+description: Personal thoughts on technology, leadership, and life.
+url: "https://handled-sh.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Author
+author:
+  name: Peter Larnholt
+
+# Social links
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
