@@ -1,37 +1,53 @@
 ---
 layout: default
 ---
+
 <section class="hero">
     <div class="container">
-        <h1 class="hero-title">Handled <span class="gradient-text">Blog</span></h1>
+        <h1 class="hero-title">Handled <span class="accent">Blog</span></h1>
         <p class="hero-subtitle">Stories, insights, and real-world cases from building an AI assistant that manages your life from one place.</p>
     </div>
 </section>
+
+{% assign latest = site.posts | first %}
+{% if latest.image %}
+<section class="container" style="padding-bottom: 32px;">
+    <a href="{{ latest.url | relative_url }}" class="featured-post">
+        <img src="{{ latest.image | relative_url }}" alt="{{ latest.title }}" class="featured-image">
+        <div class="featured-overlay">
+            <span class="card-tag">{{ latest.tag | default: 'Latest' }}</span>
+            <h2>{{ latest.title }}</h2>
+            <p>{{ latest.excerpt | strip_html | truncate: 140 }}</p>
+        </div>
+    </a>
+</section>
+{% endif %}
 
 <section class="articles-section">
     <div class="container">
         <div class="articles-grid">
             {% for post in site.posts %}
-            <a href="{{ post.url | relative_url }}" class="article-card">
-                <div class="article-tag">{{ post.category | default: "Story" }}</div>
-                <h2 class="article-title">{{ post.title }}</h2>
-                <p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-                <div class="article-meta">
-                    <span class="article-date">{{ post.date | date: "%B %d, %Y" }}</span>
-                    <span class="article-read">{{ post.content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+            {% if post.image and forloop.first %}
+            {% continue %}
+            {% endif %}
+            <article class="article-card">
+                <span class="card-tag">{{ post.tag | default: 'Article' }}</span>
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+                <div class="card-meta">
+                    <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
                 </div>
-            </a>
+            </article>
             {% endfor %}
         </div>
     </div>
 </section>
 
-<section class="cta-section">
-    <div class="container">
-        <div class="cta-card">
-            <h2>Try Handled Free for 90 Days</h2>
-            <p>No credit card required. Full access to everything.</p>
-            <a href="https://handled.sh" class="btn-primary" target="_blank">Get Started</a>
-        </div>
+<section class="container">
+    <div class="cta-banner">
+        <h2>Try Handled Free for 90 Days</h2>
+        <p>No credit card required. Just text and go.</p>
+        <a href="https://handled.sh" target="_blank" class="btn-primary">Get Started</a>
     </div>
 </section>
