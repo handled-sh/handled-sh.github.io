@@ -788,3 +788,17 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   border: 1px solid var(--border);
 }
+
+/* ─── Homepage Founder Avatar ─── */
+.hero-founder {
+  margin-bottom: 24px;
+}
+
+.founder-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--purple);
+  box-shadow: 0 0 20px var(--purple-glow);
+}
