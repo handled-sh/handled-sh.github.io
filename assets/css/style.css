@@ -771,3 +771,27 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 0.85rem;
   }
 }
+
+
+/* ─── Founder Image ─── */
+.page-content img[alt="Peter Larnholt"],
+.post-content img[alt="Peter Larnholt"] {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;
+  margin: 4px 28px 16px 0;
+  border: 3px solid var(--purple);
+  box-shadow: 0 0 30px var(--purple-glow);
+  shape-outside: circle();
+}
+
+@media (max-width: 600px) {
+  .page-content img[alt="Peter Larnholt"],
+  .post-content img[alt="Peter Larnholt"] {
+    float: none;
+    display: block;
+    margin: 0 auto 24px;
+  }
+}
