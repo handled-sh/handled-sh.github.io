@@ -134,53 +134,86 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-/* ─── Hero ─── */
+/* ─── Hero (Tony Hammarlund style) ─── */
 .hero {
   background: var(--bg-dark);
   color: #fff;
-  padding: 80px 0 70px;
-  text-align: center;
-  position: relative;
+  padding: 100px 0 110px;
+}
+
+.hero-flex {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+
+.hero-image {
+  flex-shrink: 0;
+}
+
+.hero-avatar {
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 60px rgba(255, 255, 255, 0.06);
+}
+
+.hero-text {
+  flex: 1;
 }
 
 .hero-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.6rem;
+  font-size: 4rem;
   font-weight: 800;
-  margin-bottom: 20px;
   line-height: 1.1;
+  margin-bottom: 24px;
+  text-align: left;
+  color: #fff;
 }
 
 .hero-title .accent {
   color: var(--accent);
 }
 
+.hero-title .wave {
+  display: inline-block;
+  font-size: 0.85em;
+}
+
+.hero-intro {
+  font-size: 1.35rem;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.75);
+  max-width: 520px;
+  text-align: left;
+  margin: 0;
+}
+
+.hero-intro a {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+}
+
+.hero-intro strong {
+  color: #fff;
+  font-weight: 700;
+}
+
 .hero-subtitle {
-  font-size: 1.15rem;
-  color: rgba(255, 255, 255, 0.7);
-  max-width: 580px;
-  margin: 0 auto;
-  line-height: 1.7;
+  font-size: 1.35rem;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.75);
+  max-width: 520px;
+  text-align: left;
+  margin: 0;
 }
 
-/* ─── Section Headers ─── */
-.section-header {
-  text-align: center;
-  margin-bottom: 48px;
-}
-
-.section-header h2 {
-  font-size: 2.2rem;
-  font-weight: 800;
-  margin-bottom: 12px;
-}
-
-.section-header p {
-  color: var(--text-muted);
-  font-size: 1.05rem;
-}
-
-/* ─── Section Labels (Tony style) ─── */
+/* ─── Section Labels & Headings (Tony style) ─── */
 .section-label {
   font-size: 13px;
   font-weight: 600;
@@ -188,12 +221,21 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 1.5px;
   text-align: center;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
+}
+
+.section-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.6rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 48px;
+  color: var(--text-heading);
 }
 
 /* ─── Article Cards ─── */
 .articles-section {
-  padding: 60px 0 20px;
+  padding: 70px 0 20px;
 }
 
 .articles-grid {
@@ -445,7 +487,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin: 56px 0 20px;
   padding-top: 16px;
-  letter-spacing: -0.01em;
 }
 
 .post-content h3 {
@@ -604,7 +645,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.5rem;
   font-weight: 700;
   margin: 20px 0 18px;
-  letter-spacing: -0.01em;
 }
 
 .page-content h3 {
@@ -667,6 +707,19 @@ h1, h2, h3, h4, h5, h6 {
   margin: 48px 0;
 }
 
+/* ─── Founder Image ─── */
+.page-content img[alt="Peter Larnholt"],
+.post-content img[alt="Peter Larnholt"] {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;
+  margin: 0 28px 16px 0;
+  border: 4px solid var(--border);
+  shape-outside: circle();
+}
+
 /* ─── Footer ─── */
 .site-footer {
   margin-top: auto;
@@ -712,11 +765,30 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ─── Responsive ─── */
 @media (max-width: 768px) {
-  .hero-title {
-    font-size: 2.4rem;
+  .hero {
+    padding: 60px 0 70px;
   }
+  .hero-flex {
+    flex-direction: column;
+    text-align: center;
+    gap: 32px;
+  }
+  .hero-avatar {
+    width: 220px;
+    height: 220px;
+  }
+  .hero-title {
+    font-size: 2.6rem;
+    text-align: center;
+  }
+  .hero-intro,
   .hero-subtitle {
-    font-size: 1rem;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+  .section-heading {
+    font-size: 2rem;
   }
   .articles-grid {
     grid-template-columns: 1fr;
@@ -757,37 +829,6 @@ h1, h2, h3, h4, h5, h6 {
   .featured-overlay h2 {
     font-size: 1.2rem;
   }
-}
-
-@media (max-width: 480px) {
-  .hero {
-    padding: 50px 0 40px;
-  }
-  .hero-title {
-    font-size: 2rem;
-  }
-  .nav-links a:not(:last-child) {
-    display: none;
-  }
-  .post-header h1 {
-    font-size: 1.6rem;
-  }
-}
-
-/* ─── Founder Image ─── */
-.page-content img[alt="Peter Larnholt"],
-.post-content img[alt="Peter Larnholt"] {
-  width: 220px;
-  height: 220px;
-  border-radius: 50%;
-  object-fit: cover;
-  float: left;
-  margin: 0 28px 16px 0;
-  border: 4px solid var(--border);
-  shape-outside: circle();
-}
-
-@media (max-width: 600px) {
   .page-content img[alt="Peter Larnholt"],
   .post-content img[alt="Peter Larnholt"] {
     float: none;
@@ -796,54 +837,21 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* ─── Hero with Photo (Tony style) ─── */
-.hero-flex {
-  display: flex;
-  align-items: center;
-  gap: 48px;
-  text-align: left;
-}
-
-.hero-image {
-  flex-shrink: 0;
-}
-
-.hero-avatar {
-  width: 240px;
-  height: 240px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid rgba(255, 255, 255, 0.15);
-}
-
-.hero-text {
-  flex: 1;
-}
-
-.hero-flex .hero-title {
-  text-align: left;
-}
-
-.hero-flex .hero-subtitle {
-  text-align: left;
-  margin: 0;
-}
-
-@media (max-width: 768px) {
-  .hero-flex {
-    flex-direction: column;
-    text-align: center;
-    gap: 28px;
+@media (max-width: 480px) {
+  .hero {
+    padding: 40px 0 50px;
+  }
+  .hero-title {
+    font-size: 2rem;
   }
   .hero-avatar {
     width: 180px;
     height: 180px;
   }
-  .hero-flex .hero-title,
-  .hero-flex .hero-subtitle {
-    text-align: center;
+  .nav-links a:not(:last-child) {
+    display: none;
   }
-  .hero-flex .hero-subtitle {
-    margin: 0 auto;
+  .post-header h1 {
+    font-size: 1.6rem;
   }
 }
