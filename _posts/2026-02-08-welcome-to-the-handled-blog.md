@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to the Handled Blog"
 date: 2026-02-08
 author: Handled Team
-excerpt: "Introducing our blog — where we share stories, insights, and ideas about reclaiming your time with AI."
+excerpt: "Introducing our blog - where we share stories, insights, and ideas about reclaiming your time with AI."
 tag: Behind the Scenes
 ---
 
