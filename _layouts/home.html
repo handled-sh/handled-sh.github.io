@@ -8,8 +8,8 @@ layout: default
             <img src="/assets/images/peter-headshot.jpg" alt="Peter Larnholt" class="hero-avatar">
         </div>
         <div class="hero-text">
-            <h1 class="hero-title">Handled <span class="accent">Blog</span></h1>
-            <p class="hero-subtitle">Stories, insights, and real-world cases from building an AI assistant that manages your life from one place.</p>
+            <h1 class="hero-title">Hi, I'm Peter <span class="wave">👋</span></h1>
+            <p class="hero-intro">Entrepreneur, technologist, and the founder of <a href="https://handled.sh" target="_blank"><strong>Handled</strong></a> — the AI assistant that manages your life from a single chat.</p>
         </div>
     </div>
 </section>
@@ -30,6 +30,8 @@ layout: default
 
 <section class="articles-section">
     <div class="container">
+        <div class="section-label">From the blog</div>
+        <h2 class="section-heading">Stories & Insights</h2>
         <div class="articles-grid">
             {% for post in site.posts %}
             {% if post.image and forloop.first %}
