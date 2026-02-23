@@ -771,3 +771,20 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 0.85rem;
   }
 }
+
+
+/* ─── Post Hero Image ─── */
+.post-hero-image {
+  max-width: 860px;
+  margin: 0 auto 0;
+  padding: 0 24px;
+}
+
+.post-hero-image img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 16px;
+  display: block;
+  border: 1px solid var(--border);
+}
