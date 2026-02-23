@@ -8,6 +8,9 @@ tag: Personal
 image: /assets/images/dubai-marina-sunrise.jpg
 ---
 
+![Peter Larnholt](/assets/images/peter-headshot.jpg)
+
+
 ![Sunrise over Dubai Marina](/assets/images/dubai-marina-sunrise.jpg)
 
 This is what I see when I step outside in the morning. The sun coming up over Dubai Marina, golden light cutting through the haze between the towers, the water still and calm below. It's February — and it's already warm.
