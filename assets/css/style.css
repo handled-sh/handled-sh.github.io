@@ -798,8 +798,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .founder-avatar {
-  width: 56px;
-  height: 56px;
+  width: 88px;
+  height: 88px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
