@@ -7,19 +7,19 @@ excerpt: "The era of 'ask me anything' chatbots is over. The new generation of A
 tag: Insight
 ---
 
-Remember when AI assistants meant typing a question into a chat box and getting a text response? That era feels like ancient history - even though it was barely two years ago.
+Remember when AI assistants meant typing a question into a chat box and getting a text response? That era feels like ancient history, even though it was barely two years ago.
 
-In 2024, the world was captivated by large language models. ChatGPT, Claude, Gemini - they could answer questions, write essays, and generate code. They were impressive. They were also, fundamentally, reactive. You asked, they answered. You prompted, they responded.
+In 2024, the world was captivated by large language models. ChatGPT, Claude, and Gemini could answer questions, write essays, and generate code. They were impressive. They were also, fundamentally, reactive. You asked, they answered. You prompted, they responded.
 
-In 2026, the best AI assistants have evolved into something qualitatively different. They don't just respond to requests. They anticipate needs, take autonomous action, and learn from every interaction to become more useful over time. The shift isn't incremental - it's a fundamental change in what "assistant" means.
+In 2026, the best AI assistants have evolved into something qualitatively different. They don't just respond to requests. They anticipate needs, take autonomous action, and learn from every interaction to become more useful over time. The shift isn't incremental. It's a fundamental change in what "assistant" means.
 
 ## From reactive to proactive
 
 The most important shift in AI assistants is the move from **reactive** to **proactive** behavior.
 
-A reactive assistant waits for you to ask a question. A proactive assistant notices that your flight lands at 11 PM, checks your calendar for the next morning, sees you have an 8 AM meeting, and suggests rebooking it to 10 AM - before you even think to check.
+A reactive assistant waits for you to ask a question. A proactive assistant notices that your flight lands at 11 PM, checks your calendar for the next morning, sees you have an 8 AM meeting, and suggests rebooking it to 10 AM before you even think to check.
 
-This isn't science fiction. It's what users of modern AI assistants experience every day. The assistant has context about your life - your calendar, your tasks, your preferences, your patterns - and uses that context to surface relevant information at the right moment.
+This isn't science fiction. It's what users of modern AI assistants experience every day. The assistant has context about your life — your calendar, your tasks, your preferences, your patterns — and uses that context to surface relevant information at the right moment.
 
 The key word is **relevant.** Early proactive features in smart assistants were annoying because they lacked context. They'd remind you about traffic to work on a Saturday or suggest restaurants when you'd just eaten. Modern AI assistants have enough context to know when proactive help is welcome and when it would be intrusive.
 
@@ -33,7 +33,7 @@ AI assistants are collapsing this paradigm. Instead of navigating to a specific 
 - "Send Mum 50 pounds for her birthday."
 - "Find a time for coffee with Alex next week."
 
-The assistant handles the routing - figuring out which service, API, or data source is needed - and returns the result. The user never has to think about which app to open.
+The assistant handles the routing, figuring out which service, API, or data source is needed, and returns the result. The user never has to think about which app to open.
 
 This isn't about replacing apps. It's about creating an **intelligent layer** that sits above apps and orchestrates them on your behalf. The apps still exist, but you interact with them through a unified conversational interface instead of switching between them manually.
 
@@ -68,7 +68,7 @@ This multimodal capability means the assistant fits into your natural workflow i
 
 There's a psychological tipping point with AI assistants that we call the **trust threshold.** It's the moment when a user stops checking the assistant's work and starts genuinely relying on it.
 
-Before the trust threshold, an AI assistant is a novelty - fun to use, occasionally helpful, but not essential. After the trust threshold, it becomes infrastructure - something you depend on, like electricity or running water.
+Before the trust threshold, an AI assistant is a novelty — fun to use, occasionally helpful, but not essential. After the trust threshold, it becomes infrastructure — something you depend on, like electricity or running water.
 
 For most users, the trust threshold is crossed after about two to three weeks of consistent use. That's when the assistant has enough context to be reliably proactive, when it's caught enough potential mistakes to prove its value, and when the user has developed enough confidence to delegate without double-checking.
 
@@ -79,17 +79,17 @@ Crossing the trust threshold changes the relationship between human and AI from 
 We see three major trends shaping the next generation of AI assistants:
 
 ### 1. Deeper autonomy
-Today's assistants can take simple actions - schedule a meeting, set a reminder, send a message. Tomorrow's assistants will handle multi-step workflows autonomously: researching options, comparing prices, making bookings, handling follow-ups, and reporting back with a summary.
+Today's assistants can take simple actions — schedule a meeting, set a reminder, send a message. Tomorrow's assistants will handle multi-step workflows autonomously: researching options, comparing prices, making bookings, handling follow-ups, and reporting back with a summary.
 
 ### 2. Emotional intelligence
-AI assistants are getting better at reading between the lines. Not just understanding what you said, but how you said it. Detecting stress, frustration, or overwhelm in your messages and adapting their behavior accordingly - being more concise when you're busy, more thorough when you're planning, more gentle when you're stressed.
+AI assistants are getting better at reading between the lines. Not just understanding what you said, but how you said it. Detecting stress, frustration, or overwhelm in your messages and adapting their behavior accordingly — being more concise when you're busy, more thorough when you're planning, more gentle when you're stressed.
 
 ### 3. Collaborative intelligence
-The next frontier isn't a single AI assistant working for a single person - it's AI assistants that coordinate with each other. Your assistant talks to your partner's assistant to find a date night. Your assistant talks to your colleague's assistant to schedule a meeting. The humans make the decisions; the AIs handle the logistics.
+The next frontier isn't a single AI assistant working for a single person. It's AI assistants that coordinate with each other. Your assistant talks to your partner's assistant to find a date night. Your assistant talks to your colleague's assistant to schedule a meeting. The humans make the decisions; the AIs handle the logistics.
 
 ## The bottom line
 
-We've moved far beyond the "ask me anything" chatbot. The AI assistants of 2026 are proactive, contextual, multimodal, and increasingly autonomous. They don't just answer questions - they manage workflows, anticipate needs, and learn from every interaction.
+We've moved far beyond the "ask me anything" chatbot. The AI assistants of 2026 are proactive, contextual, multimodal, and increasingly autonomous. They don't just answer questions. They manage workflows, anticipate needs, and learn from every interaction.
 
 For those of us building in this space, it's an extraordinary time. The technology is finally good enough to deliver on the promise that AI has been making for decades: a truly intelligent assistant that makes your life genuinely easier.
 
