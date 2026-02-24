@@ -11,6 +11,21 @@
     <link rel="icon" href="https://handled.sh/logo.svg" type="image/svg+xml">
     {% feed_meta %}
     {% seo %}
+    <script>
+    (function() {
+      var consent = localStorage.getItem('cookie-consent');
+      if (consent === 'accepted') {
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-XXLGWW1JSV';
+        document.head.appendChild(s);
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { window.dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-XXLGWW1JSV');
+      }
+    })();
+    </script>
 </head>
 <body>
     <nav class="navbar">
