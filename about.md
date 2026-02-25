@@ -5,7 +5,7 @@ subtitle: One conversation to manage your entire life.
 permalink: /about/
 ---
 
-Handled is an AI personal assistant that lives inside WhatsApp and Telegram. No app to download. No dashboard to learn. Just message it like you'd message a friend and it takes care of the rest.
+Handled is a productivity assistant that lives inside WhatsApp and Telegram. No app to download. No dashboard to learn. Just message it like you'd message a friend and it takes care of the rest.
 
 ---
 
@@ -45,7 +45,7 @@ Handled is built for busy people, not productivity nerds.
 
 **Peter Larnholt** is an entrepreneur and technologist splitting his time between Copenhagen and Dubai. He built Handled out of personal frustration: too many apps, too many open tabs, too many things falling through the cracks.
 
-His conviction: AI assistants should meet people where they already are. Not in another app. Not behind another login. Right there in the messaging apps you use every single day.
+His conviction: productivity tools should meet people where they already are. Not in another app. Not behind another login. Right there in the messaging apps you use every single day.
 
 ---
 

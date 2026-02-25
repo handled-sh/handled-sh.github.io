@@ -1,5 +1,5 @@
 title: Handled Blog
-description: Stories, insights, and the journey of building an AI assistant that actually gets things done.
+description: Stories, insights, and the journey of building a productivity tool that actually gets things done.
 url: "https://handled.sh"
 baseurl: "/blog"
 markdown: kramdown
