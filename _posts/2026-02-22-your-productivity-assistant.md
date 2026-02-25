@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Your Personal Assistant - Manage Your Life From One Place"
+title: "Your Productivity Assistant - Manage Your Life From One Place"
 date: 2026-02-22
 author: Handled Team
-excerpt: "Meet Handled, the AI assistant that lives in your pocket and manages your entire life from a single chat."
+excerpt: "Meet Handled, the productivity assistant that lives in your pocket and manages your day from a single chat."
 tag: Announcement
 image: /assets/images/handled-hero.jpg
 ---
 
-![Handled - Your Personal Assistant](/assets/images/handled-hero.jpg)
+![Handled - Your Productivity Assistant](/assets/images/handled-hero.jpg)
 
 There's a moment, maybe you're on top of a mountain, maybe you're in the back of a cab, maybe you're just sitting on your couch, when you pick up your phone and everything just *works*.
 
@@ -18,7 +18,7 @@ Just one conversation. One assistant. Everything handled.
 
 ## What Is Handled?
 
-Handled is an AI personal assistant that lives where you already are: WhatsApp or Telegram. No new app to download, no dashboard to learn, no onboarding flow to endure.
+Handled is a productivity assistant that lives where you already are: WhatsApp or Telegram. No new app to download, no dashboard to learn, no onboarding flow to endure.
 
 You text it like you'd text a friend. And it does the rest.
 
@@ -26,7 +26,7 @@ You text it like you'd text a friend. And it does the rest.
 - Check your calendar for tomorrow? Here it is.
 - Send an email to your team? Sent.
 - Remind you to call your mom at 7 PM? You'll get a nudge right on time.
-- Research a topic and send you a summary? Already in your inbox.
+- Look something up and send you a summary? Already in your inbox.
 
 ## Why It's Different
 
@@ -39,7 +39,7 @@ Handled meets you where you are. It adapts to *your* life, not the other way aro
 
 ## Built for Real Life
 
-Handled isn't a chatbot that answers trivia questions. It's a personal assistant that actually *does things*:
+Handled isn't a chatbot that answers trivia questions. It's a productivity assistant that actually *does things*:
 
 - Connects to your Google Calendar, Outlook, and Gmail
 - Sends emails on your behalf

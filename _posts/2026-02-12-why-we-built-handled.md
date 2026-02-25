@@ -13,7 +13,7 @@ Peter Larnholt, the founder of Handled, was sitting at his kitchen table trying 
 
 It took him over an hour. And when he was done, he wasn't confident he'd captured everything.
 
-"I remember thinking: I work in tech. I build things that solve problems. Why is my personal life running on copy-paste between nine different apps?"
+"I remember thinking: I work in tech. I solve problems for a living. Why is my personal life running on copy-paste between nine different apps?"
 
 That question became Handled.
 
@@ -38,7 +38,7 @@ When we started designing Handled, we looked at the tools people already use mos
 
 WhatsApp has over 2 billion active users. Telegram has over 900 million. These apps are open on people's phones from the moment they wake up until they go to sleep. People are more comfortable communicating through messaging than through any other digital medium.
 
-So we asked: what if your personal assistant lived inside the app you already use most? What if instead of opening a separate tool to manage your life, you just... sent a message?
+So we asked: what if your productivity assistant lived inside the app you already use most? What if instead of opening a separate tool to manage your life, you just... sent a message?
 
 That insight became our core design principle: **don't make people come to you. Go to where they already are.**
 
@@ -62,13 +62,13 @@ Building Handled, we've been guided by a few core beliefs:
 
 **AI should reduce complexity, not add it.** Many AI products ask you to learn a new workflow, master prompt engineering, or adapt to the AI's limitations. We believe AI should adapt to you — your language, your habits, your preferences.
 
-**Privacy is non-negotiable.** Your personal assistant knows everything about your life. That's a profound responsibility. We built Handled with end-to-end thinking about data minimization, encryption, and user control from day one.
+**Privacy is non-negotiable.** Your productivity assistant knows your schedule, your tasks, your preferences. That's a profound responsibility. We built Handled with end-to-end thinking about data minimization, encryption, and user control from day one.
 
 **The best interface is no interface.** Or rather, it's the interface you already know. A chat message. A voice note. A forwarded email. These are things everyone already knows how to do. Handled just makes them powerful.
 
 ## Where we're going
 
-Handled launched as a personal assistant for individuals, but we're seeing something interesting: people are bringing it into their professional lives too. Sales teams, freelancers, small business owners — they're all finding ways to use Handled that we didn't anticipate.
+Handled launched as a productivity assistant for individuals, but we're seeing something interesting: people are bringing it into their professional lives too. Sales teams, freelancers, small business owners — they're all finding ways to use Handled that we didn't anticipate.
 
 We're leaning into that. In the coming months, we'll be expanding Handled's capabilities around professional workflows, team coordination, and deeper integrations with the business tools people rely on.
 

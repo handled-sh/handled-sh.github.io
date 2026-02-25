@@ -54,6 +54,6 @@ Handled solves all three by meeting you where you already are — in your messag
 
 ## Try it yourself
 
-If Sarah's story resonates with you, give Handled a try. It takes less than two minutes to get started, and there's nothing to install. Just send a message and let your AI assistant take it from there.
+If Sarah's story resonates with you, give Handled a try. It takes less than two minutes to get started, and there's nothing to install. Just send a message and let your productivity assistant take it from there.
 
 Your mornings deserve better than admin work.

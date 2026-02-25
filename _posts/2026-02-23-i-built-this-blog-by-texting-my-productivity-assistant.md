@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "I Built This Blog by Texting My AI Assistant"
+title: "I Built This Blog by Texting My Productivity Assistant"
 date: 2026-02-23
 author: Peter Larnholt
 excerpt: "No code editor. No terminal. No Stack Overflow. I created this entire blog - design, articles, and deployment - by chatting with Handled on WhatsApp."
 tag: Behind the Scenes
 ---
 
-Last night, I built this blog. The whole thing - custom design, six articles, GitHub Pages deployment, SEO tags, responsive layout. I did it from my couch, on my phone, chatting with my own AI assistant.
+Last night, I built this blog. The whole thing - custom design, six articles, GitHub Pages deployment, SEO tags, responsive layout. I did it from my couch, on my phone, chatting with Handled on WhatsApp.
 
 I never opened a code editor. I never touched a terminal. I never Googled "how to set up Jekyll."
 
@@ -37,13 +37,13 @@ Handled went to work. It visited the [handled.sh](https://handled.sh) website, a
 
 Dark background (#0a0a0a). Purple brand accents. Exo font for headings, Inter for body text. Cards with subtle glow effects on hover. A sticky navbar with the Handled logo. A responsive grid of article cards. A call-to-action banner.
 
-Then it wrote five full articles - case studies about real use cases, an origin story, a thought leadership piece on where AI assistants are heading. Each one professionally written, with proper front matter, reading time estimates, and tag badges.
+Then it wrote five full articles - case studies about real use cases, an origin story, a thought leadership piece on where productivity tools are heading. Each one professionally written, with proper front matter, reading time estimates, and tag badges.
 
 All pushed to GitHub. All live within minutes.
 
 ## The hero image
 
-I had a promo image for Handled - a guy on a mountaintop using his phone, with the tagline *"Your Personal Assistant."* I sent it over WhatsApp:
+I had a promo image for Handled - a guy on a mountaintop using his phone, with the tagline *"Your Productivity Assistant."* I sent it over WhatsApp:
 
 > "Publish this."
 
@@ -81,7 +81,7 @@ You don't need to know what Jekyll is. You don't need to understand CSS variable
 
 This blog you're reading right now is proof that it works. Every pixel, every word, every deployment was handled through a chat conversation.
 
-If you're curious what an AI assistant that actually *does things* feels like, give it a try. Ninety days free. No credit card.
+If you're curious what a productivity assistant that actually *does things* feels like, give it a try. Ninety days free. No credit card.
 
 Just send a message. Everything else is handled.
 

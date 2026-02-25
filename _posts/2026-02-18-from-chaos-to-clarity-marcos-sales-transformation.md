@@ -49,7 +49,7 @@ But the metric Marco cares about most is simpler than any of those:
 
 ## What makes this work
 
-Marco's story illustrates something important about how AI assistants create value. It's not about replacing human judgment — Marco still makes every strategic decision about his deals. It's about eliminating the friction between decisions.
+Marco's story illustrates something important about how productivity tools create value. It's not about replacing human judgment — Marco still makes every strategic decision about his deals. It's about eliminating the friction between decisions.
 
 The gap between "I should follow up with Elena" and actually doing it used to be filled with app-switching, data entry, and mental overhead. Handled compresses that gap to near zero.
 
