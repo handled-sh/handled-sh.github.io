@@ -11,7 +11,7 @@ Remember when productivity tools meant typing a question into a chat box and get
 
 In 2024, the world was captivated by large language models. They could answer questions, write essays, and generate text. They were impressive. They were also, fundamentally, reactive. You asked, they answered. You prompted, they responded.
 
-In 2026, the best productivity tools have evolved into something qualitatively different. They don't just respond to requests. They anticipate needs, take autonomous action, and learn from every interaction to become more useful over time. The shift isn't incremental. It's a fundamental change in what "assistant" means.
+In 2026, the best productivity tools have become something qualitatively different. They don't just respond to requests. They anticipate needs, take autonomous action, and learn from every interaction to become more useful over time. The shift isn't incremental. It's a fundamental change in what "assistant" means.
 
 ## From reactive to proactive
 
@@ -19,7 +19,7 @@ The most important shift in productivity tools is the move from **reactive** to 
 
 A reactive tool waits for you to ask a question. A proactive one notices that your flight lands at 11 PM, checks your calendar for the next morning, sees you have an 8 AM meeting, and suggests rebooking it to 10 AM before you even think to check.
 
-This isn't science fiction. It's what users of modern productivity tools experience every day. The tool has context about your life — your calendar, your tasks, your preferences, your patterns — and uses that context to surface relevant information at the right moment.
+This isn't science fiction. It's what users of modern productivity tools experience every day. The tool has context about your life - your calendar, your tasks, your preferences, your patterns - and uses that context to surface relevant information at the right moment.
 
 The key word is **relevant.** Early proactive features were annoying because they lacked context. They'd remind you about traffic to work on a Saturday or suggest restaurants when you'd just eaten. Modern productivity tools have enough context to know when proactive help is welcome and when it would be intrusive.
 
@@ -51,7 +51,7 @@ Consider the difference:
 
 The assistant already knows where you work, that you're vegetarian, that Friday dinners are usually with your partner (so two people), that you prefer 7 PM, and that you like quiet places. A single sentence replaces a paragraph of instructions.
 
-This compounds over time. The more you use a productivity tool with memory, the less you have to say to get what you need. It becomes a true extension of your thinking.
+This compounds over time. The more you use a productivity tool with memory, the less you have to say to get what you need. It becomes a genuine extension of your thinking.
 
 ## Multimodal, not just text
 
@@ -68,7 +68,7 @@ This multimodal capability means the assistant fits into your natural workflow i
 
 There's a psychological tipping point with productivity tools that we call the **trust threshold.** It's the moment when a user stops checking the tool's work and starts genuinely relying on it.
 
-Before the trust threshold, a productivity tool is a novelty — fun to use, occasionally helpful, but not essential. After the trust threshold, it becomes infrastructure — something you depend on, like electricity or running water.
+Before the trust threshold, a productivity tool is a novelty - fun to use, occasionally helpful, but not essential. After the trust threshold, it becomes infrastructure, something you depend on, like electricity or running water.
 
 For most users, the trust threshold is crossed after about two to three weeks of consistent use. That's when the assistant has enough context to be reliably proactive, when it's caught enough potential mistakes to prove its value, and when the user has developed enough confidence to delegate without double-checking.
 
@@ -79,10 +79,10 @@ Crossing the trust threshold changes the relationship between human and AI from 
 We see three major trends shaping the next generation of productivity tools:
 
 ### 1. Deeper autonomy
-Today's assistants can take simple actions — schedule a meeting, set a reminder, send a message. Tomorrow's assistants will handle multi-step workflows autonomously: researching options, comparing prices, making bookings, handling follow-ups, and reporting back with a summary.
+Today's assistants can take simple actions - schedule a meeting, set a reminder, send a message. Tomorrow's assistants will handle multi-step workflows autonomously: researching options, comparing prices, making bookings, handling follow-ups, and reporting back with a summary.
 
 ### 2. Emotional intelligence
-Productivity tools are getting better at reading between the lines. Not just understanding what you said, but how you said it. Detecting stress, frustration, or overwhelm in your messages and adapting their behavior accordingly — being more concise when you're busy, more thorough when you're planning, more gentle when you're stressed.
+Productivity tools are getting better at reading between the lines. Not just understanding what you said, but how you said it. Detecting stress, frustration, or overwhelm in your messages and adapting their behavior accordingly - being more concise when you're busy, more thorough when you're planning, more gentle when you're stressed.
 
 ### 3. Collaborative intelligence
 The next frontier isn't a single productivity tool working for a single person. It's tools that coordinate with each other. Your assistant talks to your partner's assistant to find a date night. Your assistant talks to your colleague's assistant to schedule a meeting. The humans make the decisions; the tools handle the logistics.
