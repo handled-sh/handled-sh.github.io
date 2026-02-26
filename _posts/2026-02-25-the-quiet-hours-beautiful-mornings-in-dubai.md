@@ -8,7 +8,6 @@ tag: Personal
 image: /assets/images/dubai-morning-lounge.jpg
 ---
 
-![A quiet Dubai morning](/assets/images/dubai-morning-lounge.jpg)
 
 There is a version of Dubai that most people never see.
 
