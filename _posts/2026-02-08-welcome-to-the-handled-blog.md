@@ -11,7 +11,7 @@ Welcome to the Handled blog.
 
 This is where we'll share the stories of real people using Handled to simplify their lives, our thinking about the future of productivity tools, and the lessons we're learning as we build a product that thousands of people rely on every day.
 
-We believe that technology should make your life simpler, not more complicated. That AI should adapt to you, not the other way around. And that the best tools are the ones that disappear into your daily routine so seamlessly that you forget they're even there.
+We believe technology should make your life simpler, not more complicated. That AI should adapt to you, not the other way around. And that the best tools are the ones that disappear into your daily routine - so quietly that you forget they're even there.
 
 That's what we're building with Handled, and this blog is where we'll take you behind the scenes.
 
