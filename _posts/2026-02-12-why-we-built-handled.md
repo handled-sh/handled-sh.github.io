@@ -38,7 +38,7 @@ When we started designing Handled, we looked at the tools people already use mos
 
 WhatsApp has over 2 billion active users. Telegram has over 900 million. These apps are open on people's phones from the moment they wake up until they go to sleep. People are more comfortable communicating through messaging than through any other digital medium.
 
-So we asked: what if your productivity assistant lived inside the app you already use most? What if instead of opening a separate tool to manage your life, you just... sent a message?
+So we asked: what if your productivity assistant lived inside the app you already use most? What if instead of opening a separate tool to manage your schedule, you just... sent a message?
 
 That insight became our core design principle: **don't make people come to you. Go to where they already are.**
 

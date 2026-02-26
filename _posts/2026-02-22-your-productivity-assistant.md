@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Productivity Assistant - Manage Your Life From One Place"
+title: "Your Productivity Assistant - Your Calendar, Email, and Tasks in One Place"
 date: 2026-02-22
 author: Handled Team
 excerpt: "Meet Handled, the productivity assistant that lives in your pocket and manages your day from a single chat."
