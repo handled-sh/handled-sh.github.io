@@ -10,7 +10,7 @@ image: /assets/images/handled-hero.jpg
 
 ![Handled - Your Productivity Assistant](/assets/images/handled-hero.jpg)
 
-There's a moment, maybe you're on top of a mountain, maybe you're in the back of a cab, maybe you're just sitting on your couch, when you pick up your phone and everything just *works*.
+There's a moment - maybe you're on top of a mountain, maybe you're in the back of a cab, maybe you're just sitting on your couch - when you pick up your phone and everything just *works*.
 
 No switching between seven apps. No digging through email threads. No forgotten tasks haunting you at 2 AM.
 
