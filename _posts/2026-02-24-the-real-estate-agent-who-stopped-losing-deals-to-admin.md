@@ -45,7 +45,7 @@ When Sofia identifies a new listing that matches a client's criteria, she tells 
 
 ### Reminders for contract renewals and deadlines
 
-Sofia manages a number of clients who are also landlords, with tenancy contracts that renew on rolling annual cycles. Missing a renewal window means a scramble, for the client and for Sofia's relationship with them. She gave Handled a list of every renewal date, and it now reminds her six weeks out, three weeks out, and one week out, with a note on what still needs to be done.
+Sofia manages a number of clients who are also landlords, with tenancy contracts that renew on rolling annual cycles. Missing a renewal window means a scramble - for the client and for Sofia's relationship with them. She gave Handled a list of every renewal date, and it now reminds her six weeks out, three weeks out, and one week out, with a note on what still needs to be done.
 
 > "One of my clients told me last month that he always feels looked after by me. That I never miss anything. The truth is, I am not the one remembering. Handled is. But the feeling for the client is exactly the same."
 
