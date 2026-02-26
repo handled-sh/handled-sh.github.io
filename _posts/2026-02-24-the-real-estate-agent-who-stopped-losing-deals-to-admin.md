@@ -29,7 +29,7 @@ Sofia started using Handled in January 2026. She connected it through WhatsApp, 
 
 ### Scheduling viewings and follow-ups automatically
 
-When a new lead comes in, Sofia forwards the conversation to Handled with a quick note: "New inquiry, two-bedroom in JBR, flexible on timing." Handled drafts the response, proposes viewing slots based on her calendar, and sets a follow-up reminder if the client goes quiet. Nothing falls into a gap. Sofia says the change was immediate.
+When a new lead comes in, Sofia tells Handled the details: "New inquiry, two-bedroom in JBR, flexible on timing." Handled checks her calendar, suggests available viewing slots, and sets a follow-up reminder if she hasn't heard back. Nothing falls into a gap. Sofia says the change was immediate.
 
 > "I used to lose leads just because I forgot to reply quickly enough. Now the follow-up happens within the hour, every time. Clients notice that."
 
@@ -41,7 +41,7 @@ Sofia asked Handled to track engagement across her active clients: who is openin
 
 ### Sending property summaries via WhatsApp
 
-When Sofia identifies a new listing that matches a client's criteria, she tells Handled the key details and who to send it to. Handled formats a clean, readable summary and sends it directly to the client on WhatsApp. No copy-pasting from portals, no formatting properties manually, no switching between apps. The client gets a professional, personalised message within minutes of Sofia spotting the listing.
+When Sofia identifies a new listing that matches a client's criteria, she asks Handled to prepare a summary. Handled formats a clean, readable property brief that Sofia can forward to her client. No copy-pasting from portals, no formatting properties manually, no switching between apps. The client gets a professional, personalised message within minutes of Sofia spotting the listing.
 
 ### Reminders for contract renewals and deadlines
 
