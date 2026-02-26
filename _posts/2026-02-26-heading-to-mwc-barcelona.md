@@ -8,7 +8,6 @@ tag: Events
 image: /assets/images/mwc-barcelona.jpg
 ---
 
-![MWC Barcelona](/assets/images/mwc-barcelona.jpg)
 
 Next week I'll be in Barcelona for MWC — Mobile World Congress. It's been a while since I was last there, and I'm genuinely looking forward to it.
 
