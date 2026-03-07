@@ -12,13 +12,11 @@ Iran is literally across the Gulf. On a clear day you can see the lights of the 
 
 ## What actually happened here
 
-Iranian forces launched a significant retaliatory strike across the region. According to Iranian military sources, since February 28th Iran has fired:
+Iranian forces launched a significant retaliatory strike across the region. According to the UAE Ministry of Defence, the attacks included:
 
-- Over 500 ballistic and naval missiles
-- Nearly 2,000 drones
-- Multiple kinetic strikes
-
-Of these, approximately 40% were directed at Israel, with the remaining 60% targeting US military installations across the Gulf region — in the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Iraq, Oman, and Jordan.
+- **1,184 UAVs** — 1,110 intercepted, 74 impacts on land
+- **205 Ballistic Missiles** — 190 intercepted, 2 impacts on land, 13 impacts in the sea
+- **8 Cruise Missiles** — 8 intercepted
 
 The Strait of Hormuz — one of the most critical shipping lanes in the world, through which 20% of global oil passes — saw traffic come nearly to a halt as a result.
 
@@ -28,7 +26,7 @@ And yet Dubai itself? Life carried on. The malls were open. Restaurants full. Th
 
 The past week brought a wave of travellers cutting trips short and flying home early. Tour groups cancelled. Hotel bookings dropped. Airlines saw a spike in rebooking requests.
 
-It is understandable. When you see the words "Iran," "500 missiles," and "2,000 drones" in the same headline, and you are sitting in a hotel 200 kilometres from the Iranian coast, the instinct to get home is human.
+It is understandable. When you see the words "Iran," "over 1,000 drones," and "200 ballistic missiles" in the same headline, and you are sitting in a hotel 200 kilometres from the Iranian coast, the instinct to get home is human.
 
 But the reality is that the UAE has never been safer. The country's leadership moved quickly and decisively. Air defences were activated, airspace was managed, and the response was calm and coordinated. There was no panic. No chaos. The system worked exactly the way it was designed to.
 
@@ -43,3 +41,4 @@ Living here, you sometimes take that for granted. This week was a reminder not t
 The conflict is not over. The situation across the Gulf remains fluid and unpredictable. But from this side of the water, the ground is steady. And that is something to be genuinely grateful for.
 
 *Posted from Dubai Marina, March 2026.*
+*Data source: UAE Ministry of Defence, March 6, 2026.*
