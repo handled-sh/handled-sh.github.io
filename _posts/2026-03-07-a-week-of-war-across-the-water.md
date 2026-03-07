@@ -3,7 +3,10 @@ layout: post
 title: "A Week of War Across the Water — Life in Dubai Goes On"
 date: 2026-03-07 12:00:00 +0400
 categories: [perspective, middle-east, dubai]
+image: /blog/assets/images/dubai-marina-palm-march2026.jpg
 ---
+
+![Dubai Marina, March 2026](/blog/assets/images/dubai-marina-palm-march2026.jpg)
 
 It has been one week since US and Israeli forces began striking Iran. For most of the world, this is a news story. For those of us living in Dubai, it is something you can almost see from the window.
 
