@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Security Is Not a Feature. It Is the Foundation."
-date: 2026-03-19 12:00:00 +0400
+date: 2026-03-19 08:00:00 +0400
 categories: [handled, security, product]
 image: /assets/images/handled-security-first.png
 ---
