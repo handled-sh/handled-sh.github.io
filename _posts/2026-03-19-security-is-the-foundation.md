@@ -6,8 +6,6 @@ categories: [handled, security, product]
 image: /assets/images/handled-security-first.png
 ---
 
-![Security First](/assets/images/handled-security-first.png)
-
 When we started building Handled, there were a lot of decisions to make. What platforms to support. What integrations to build first. How to price it. The usual startup questions.
 
 But one thing was never really a debate: security had to come first. Not as a marketing claim. Not as a checkbox on a compliance form. As the actual starting point for every technical decision we made.
