@@ -7,7 +7,7 @@ excerpt: "I thought going back to entrepreneurship would be easy. I craved it, a
 image: /assets/images/amiga500.jpg
 ---
 
-In 1990, I took my Amiga apart and built a genlock -- a device that connects computers to TV screens. I was a teenager who just wanted to see if it could be done. Nobody told me how. I figured it out.
+In 1990, I took my Amiga apart and built a genlock -- a device that lets computers output video to TV studio equipment. I sold it to Bingolotto, what is today one of Sweden's largest lotteries. I was a teenager who just wanted to see if it could be done. Nobody told me how. I figured it out. And someone paid for it.
 
 That instinct never left me. But for about 25 years, it had to share space with something else: a career.
 
