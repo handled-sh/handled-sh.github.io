@@ -4,7 +4,7 @@ title: "The Executive Who Had to Go Back"
 date: 2026-04-19
 author: Peter Larnholt
 excerpt: "I thought going back to entrepreneurship would be easy. I craved it, after all. It wasn't. It took two full years to find my roots again."
-image: /assets/images/executive-entrepreneur.jpg
+image: /assets/images/amiga500.jpg
 ---
 
 In 1990, I took my Amiga apart and built a genlock -- a device that connects computers to TV screens. I was a teenager who just wanted to see if it could be done. Nobody told me how. I figured it out.
